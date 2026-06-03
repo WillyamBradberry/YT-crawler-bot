@@ -1,9 +1,16 @@
-<<<<<<< HEAD
 # YouTube Thumbnail Downloader & Metadata Extractor
 
 Скрипт автоматизации для выгрузки обложек (thumbnails) и очищенных метаданных из последних видео произвольного YouTube-канала. Скрипт создаёт готовую рабочую среду для последующего контент-анализа или скармливания контекста ИИ-агентам (LLM).
 
 Генерирует файлы, полностью совместимые с базой знаний **Obsidian**.
+
+<div align="center">
+  <h1>Obsidian Example</h1>
+  <a href="./perepolox_thumbnails/AI_report" target="_blank">
+    <img width="768" src="./perepolox_thumbnails/example.jpg" alt="Obsidian Example">
+  </a>
+
+</div>
 
 ## Особенности
 
@@ -61,4 +68,3 @@ python download_thumbnails.py "[https://www.youtube.com/@ИМЯ_КАНАЛА/vid
 =======
 # YT-crawler-bot
 Collect and analyse YouTube content, a small SEO advidser
->>>>>>> 382bf9dd9f9bb9fa6301d35c7edd4c8e0eb33a6a
