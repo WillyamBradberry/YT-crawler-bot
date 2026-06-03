@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+.env.*
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# LM Studio / AI artifacts (при необходимости)
+models/
+downloads/
+
+# Temporary files
+tmp/
+temp/
