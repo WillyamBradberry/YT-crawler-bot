@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Obsidian Example</h1>
-  <a href="./perepolox_thumbnails/AI_report" target="_blank">
+  <a href="./perepolox_thumbnails/AI_report.md" target="_blank">
     <img width="768" src="./perepolox_thumbnails/example.jpg" alt="Obsidian Example">
   </a>
 
